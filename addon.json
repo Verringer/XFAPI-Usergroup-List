@@ -1,14 +1,16 @@
 {
     "legacy_addon_id": "",
     "title": "Usergroup List API Endpoint",
-    "description": "",
+    "description": "Outputs a list of users from selected usergroups.",
     "version_id": 1000010,
     "version_string": "1.0.0 Alpha",
-    "dev": "",
-    "dev_url": "",
-    "faq_url": "",
-    "support_url": "",
-    "extra_urls": [],
+    "dev": "Verringer",
+    "dev_url": "https://verringer.com",
+    "faq_url": "https://github.com/Verringer/XFAPI-Usergroup-List/blob/main/README.md",
+    "support_url": "https://github.com/Verringer/XFAPI-Usergroup-List/issues",
+    "extra_urls": {
+        "Repo": "https://github.com/Verringer/XFAPI-Usergroup-List"
+    },
     "require": [],
-    "icon": ""
+    "icon": "fa-users"
 }
